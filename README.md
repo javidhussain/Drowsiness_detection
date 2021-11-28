@@ -20,7 +20,7 @@ pygame          =        2.0.1
 
 data --------- train ------ training images
          '
-         '
+         
          '---- test ------- test images
 
 # Training 
