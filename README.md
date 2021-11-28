@@ -19,7 +19,6 @@ pygame          =        2.0.1
 # Dir Structure
 
 data --------- train ------ training images
-         '
          
          '---- test ------- test images
 
